@@ -1,4 +1,4 @@
-package com.calculator.vivasdev.calculator
+package com.vivasdev.calculator
 
 import io.flutter.embedding.android.FlutterActivity
 
